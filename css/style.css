@@ -55,3 +55,10 @@ header {
 #gallery img {
     max-width: 90%;
 }
+
+#lit {
+    font-size: 15pt;
+    color: #A64B29 ;
+    text-align: center;
+
+}
