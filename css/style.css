@@ -1,0 +1,32 @@
+body {
+    font-family: ConcertOne;
+    background-color:#74F2D9;
+    color: #F29674;
+    font-size: 15pt;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Baloo2";
+    font-size: 45pt;
+}
+
+header {
+    text-align: right;
+}
+
+#Hero, footer {
+    color: #11A88A;
+    background-color: #FFC9B5;
+    text-align: right;
+    padding: 10px;
+}
+
+#Hero img {
+    width: 275px;
+
+}
+
+#Bio {
+    text-align: center;
+    
+}
