@@ -64,3 +64,23 @@ header {
     text-align: center;
 
 }
+
+#lit div {
+    padding: 3rem 0;
+    max-width: 35rem;
+    margin: 0 auto;
+
+}
+
+#lit div p {
+    padding: .5rem;
+    clear: both;
+
+}
+/*Dropcap*/
+#lit div p:first-letter {
+    color: black;
+    float: left;
+    font-size: 2.5em;
+    margin-right: .25em;
+}
