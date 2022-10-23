@@ -1,7 +1,7 @@
 body {
     font-family: ConcertOne;
-    background-color:#74F2D9;
-    color: #F29674;
+    background-color: #FFFD9B;
+    color: #4A127A;
     font-size: 15pt;
 }
 
@@ -19,8 +19,8 @@ header {
 }
 
 #Hero, footer {
-    color: #11A88A;
-    background-color: #FFC9B5;
+    color: #FFFD9B;
+    background-color: #4A127A;
     text-align: right;
     padding: 10px;
 }
@@ -43,22 +43,24 @@ header {
 
 #hobbies {
     text-align: right;
-    color: #A64B29;
+    color: #4A127A;
 }
 
 /*Gallery Section*/
 
 #gallery {
-    border: 4px solid #F29674;
+    border: 4px solid #B675F0;
+    text-align: center;
 }
 
 #gallery img {
     max-width: 90%;
+    text-align: center;
 }
 
 #lit {
     font-size: 15pt;
-    color: #A64B29 ;
+    color: #4A127A ;
     text-align: center;
 
 }
