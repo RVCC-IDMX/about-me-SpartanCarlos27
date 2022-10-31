@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h2 {
     font-size: 35pt;
-    margin: 0.1em;
+    margin: .1em;
 }
 
 header {
@@ -61,8 +61,12 @@ section#hobbies {
 }
 
 #gallery img {
-    max-width: 90%;
+    max-width: 100%;
     align-items: center;
+}
+
+#gallery figure {
+    text-align: center;
 }
 
 #lit {
@@ -92,9 +96,20 @@ section#hobbies {
     margin-right: .25em;
 }
 
+/*myVideo changes*/
+
+#video {
+    text-align: center;
+}
+
+#videocaption {
+    font-size: 20pt;
+    font-weight: bolder;
+}
+
 /*for tablet sizing*/
 
-@media screen and (min-width: 60 em); {
+@media screen and (min-width: 60em); {
     figure {
         display: grid;
         grid-template-columns: 2fr 1fr;
@@ -120,7 +135,7 @@ section#hobbies {
 
 /*large screen changes*/
 
-@media screen and (min-width: 100em); {
+@media screen and (min-width: 100em) {
     #gallery {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
