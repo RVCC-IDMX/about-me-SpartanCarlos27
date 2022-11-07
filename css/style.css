@@ -153,3 +153,9 @@ section#hobbies {
         display: block;
     }
 }
+
+/* contact form */
+
+#formElements {
+    display:grid;
+}
