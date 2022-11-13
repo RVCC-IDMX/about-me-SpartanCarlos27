@@ -103,8 +103,9 @@ section#hobbies {
 }
 
 #videocaption {
-    font-size: 20pt;
-    font-weight: bolder;
+    font-size: 15pt;
+    padding: 1rem;
+    text-align: center;
 }
 
 /*for tablet sizing*/
