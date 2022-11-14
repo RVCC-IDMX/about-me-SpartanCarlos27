@@ -24,7 +24,14 @@ main {
 
 /* navbar */
 
-
+.navbar {
+    background-color: black;
+    color: blanchedalmond;
+    display: flex;
+    flex-direction: column;
+    flex-size: 1.5rem;
+    margin-bottom: 1rem;
+}
 
 /* logo */
 
