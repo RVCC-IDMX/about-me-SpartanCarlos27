@@ -17,4 +17,6 @@ The purpose of this assignment is to transform the About Me project into a full 
 
 ***Citations***
 
+Photo by <a href="https://unsplash.com/@eadutskevich?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Evgeni Adutskevich</a> on <a href="https://unsplash.com/s/photos/autoshow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 **[License](https://github.com/RVCC-IDMX/about-me-SpartanCarlos27/blob/7623f02beb56c4f46b330d664b41df2670bb1a85/LICENCE.md)**
